@@ -1,1 +1,1 @@
-# odin-recipes
+Odin's first project: making a recipe, this first one will be just pure html, which i've done before, even with css elements, but will do again not only to freshen up but also to get more experienced with git/github, commiting etc
